@@ -188,7 +188,7 @@ v p m h /   . x z k w
 
 <summary><b>k-swap</b></summary>
   
-> ~ sinatra kick
+> ~ sinatra keys
 
 Swaps the right ring and pinky columns, and moves `k` to the center key of the left index (`j` takes its old spot at the bottom of the right pinky).
 
