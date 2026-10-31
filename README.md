@@ -244,7 +244,7 @@ Other swaps with minimal costs. Generally, swapping the top and bottom keys on t
 
 <br>
 <details>
-<summary><b>Alternatives:</b></summary>
+<summary><b>Variations:</b></summary>
 
 <dl><dd>
   
