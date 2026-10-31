@@ -2,7 +2,7 @@
 minimal lateral index movement
 
 ## Layouts
-<details>
+<details open>
 <summary><b>gork-mntr</b></summary>
   
 > ~ monterey jack
@@ -20,8 +20,11 @@ c b v h /   . x z w k
 <img src="./img/mntrj-s.png" alt="Layout stats" width="526">
 
 <b>Notes:</b>\
-\+ qh4f\
-− ijerf
+\+ Minimal center column use\
+\+ Lower scissors (-0.52% vs graphite, gallium, canary)\
+\+ Sloped finger usage\
+− Right pinky usage (10%)\
+− Higher SFB (+0.15% vs graphite, gallium, canary) 
 
 <b>Optional Swaps:</b>
 <dl><dd>
@@ -43,9 +46,10 @@ c b v h /   . x z w k
 
 <img src="./img/mntrj-s.png" alt="Layout stats" width="526">
 
-<b>Notes:</b>\
-\+ qh4f\
-− ijerf
+<b>Costs:</b> marginal\
+~ marginally lower left index lateral movement (-0.08%)\
+~ marginally higher right index lateral (+0.08%)\
+− SFB marginally higher (+0.08%)
 
 </details>
 
