@@ -2,18 +2,27 @@
 minimal lateral index movement
 
 ## Layouts
-
 <details>
 <summary><b>gork-mntr</b></summary>
   
 > monterey jack
-  
+
+This layout slaps
+
+[Playground](https://cyanophage.github.io/playground.html?layout=gpdl%27%2Coufy-mntrjqaesi%3Dcbvh%2F.xzwk%5C*%3B&mode=ergo&lan=english&thumb=l)
+
+![Layout preview](./img/mntrj.png)
 ```
 g p d l ‘   , o u f y
 m n t r j   q a e s i
 c b v h /   . x z w k
 ```
-[Playground](https://cyanophage.github.io/playground.html?layout=gpdl%27%2Coufy-mntrjqaesi%3Dcbvh%2F.xzwk%5C*%3B&mode=ergo&lan=english&thumb=l)
+
+<img src="./img/mntrj-s.png" alt="Layout stats" width="526">
+
+<b>Notes:</b>\
+\+ qh4f\
+− ijerf
 
 <b>Swaps:</b>
 <dl><dd>
