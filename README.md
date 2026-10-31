@@ -91,6 +91,34 @@ c b v h /   . x z w j
 
 
 
+<!-- CNTR -->
+<details>
+
+<summary><b>cntr</b></summary>
+This could be a separate layout, however
+
+![Layout preview](./img/mntrk.png)
+```
+g p d l ‘   , o u f y
+m n t r k   q a e s i
+c b v h /   . x z w j
+```
+[Playground](https://cyanophage.github.io/playground.html?layout=gpdl%27%2Coufy-mntrkqaesi%3Dcbvh%2F.xzwj%5C*%3B&mode=ergo&lan=english&thumb=l)
+
+<img src="./img/mntrk-s.png" alt="Layout stats" width="526">
+
+<b>Costs:</b> low\
+\+ Slightly lower right pinky use (-0.6%)\
+\+ Removes "ki" bigram\
+\+ SFB marginally lower (-0.03%)\
+− Slightly higher left index lateral movement (+0.6%)
+
+---
+
+</details>
+
+
+
 <!-- MISC -->
 <details>
 
@@ -222,8 +250,103 @@ Other swaps with minimal costs. Generally, swapping the top and bottom keys on t
 
 `x - x`\
 
+</details>
+
+
+</dd></dl>
 
 </details>
+
+
+
+<!-- NSRT -->
+ 
+ 
+<details>
+<summary><b>gork-nsrt</b></summary>
+  
+> ~ insert jack
+ 
+This layout slaps
+ 
+![Layout preview](./img/nsrtj.png)
+```
+b f l d ‘   , o u k w
+n s r t j   q a e i c
+p v h m /   . x z y g
+```
+[Playground](https://cyanophage.github.io/playground.html?layout=bfld%27%2Coukw-nsrtjqaeic%3Dpvhm%2F.xzyg%5C*%3B&mode=ergo&lan=english&thumb=l)
+ 
+<img src="./img/nsrtj-s.png" alt="Layout stats" width="526">
+
+<b>Notes:</b>\
+\+ qh4f\
+− ijerf
+ 
+<b>Optional Swaps:</b>
+<dl><dd>
+<!-- JQ Swap -->
+<details>
+<summary><b>q-swap</b></summary>
+  
+> ~ insert query
+ 
+Switches the middle index keys so the left index has slightly less lateral movement (-x.xx%), at the expense of the right index.\
+Better for people with less mobility in the left index finger.
+ 
+![Layout preview](./img/nsrtq.png)
+```
+b f l d ‘   , o u k w
+n s r t q   j a e i c
+p v h m /   . x z y g
+```
+[Playground](https://cyanophage.github.io/playground.html?layout=bfld%27%2Coukw-nsrtqjaeic%3Dpvhm%2F.xzyg%5C*%3B&mode=ergo&lan=english&thumb=l)
+ 
+<img src="./img/nsrtq-s.png" alt="Layout stats" width="526">
+
+<b>Costs:</b>\
+~ lower left index lateral movement (-x.xx%)\
+~ higher right index lateral (+x.xx%)\
+~ SFB (±x.xx%)
+ 
+---
+ 
+</details>
+<!-- JK Swap -->
+<details>
+<summary><b>k-swap</b></summary>
+  
+> ~ insert key
+ 
+Moves `k` to the center key of the left index (`j` takes its old spot at the top of the right ring finger).
+ 
+![Layout preview](./img/nsrtk.png)
+```
+b f l d ‘   , o u j w
+n s r t k   q a e i c
+p v h m /   . x z y g
+```
+[Playground](https://cyanophage.github.io/playground.html?layout=bfld%27%2Coujw-nsrtkqaeic%3Dpvhm%2F.xzyg%5C*%3B&mode=ergo&lan=english&thumb=l)
+ 
+<img src="./img/nsrtk-s.png" alt="Layout stats" width="526">
+
+<b>Costs:</b>\
+~ left index lateral movement (±x.xx%)\
+~ right ring use (±x.xx%)\
+~ SFB (±x.xx%)
+ 
+---
+ 
+</details>
+<!-- MISC -->
+<details>
+<summary><b>misc</b></summary>
+Other swaps with minimal costs. Generally, swapping the top and bottom keys on the same finger or two infrequent keys generally have low to no costs, but should be checked on [playground](https://cyanophage.github.io/playground).
+ 
+`x - x`
+ 
+</details>
+
 
 </dd></dl>
 
